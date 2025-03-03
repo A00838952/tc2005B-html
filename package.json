@@ -1,0 +1,25 @@
+{
+  "name": "html-prueba",
+  "version": "1.0.0",
+  "description": "package json",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "repository": {
+    "url": "git+https://github.com/A00838952/tc2005B-html.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "",
+  "type":"module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A00838952/tc2005B-html/issues"
+  },
+  "homepage": "https://github.com/A00838952/tc2005B-html#readme"
+}
